@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Shijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=xu-shi-jie&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu-shi-jie&layout=compact)](https://github.com/xu-shi-jie/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/xu-shi-jie/count.svg) 
+
 <!--
 **xu-shi-jie/xu-shi-jie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
