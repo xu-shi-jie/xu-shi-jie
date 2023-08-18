@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/xu-shi-jie/xu-shi-jie/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/xu-shi-jie/xu-shi-jie/blob/output/github-snake.svg)
 
 <!-- ![Shijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=xu-shi-jie&show_icons=true&theme=tokyonight) -->
 
