@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu-shi-jie&layout=compact)](https://github.com/xu-shi-jie/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=xu-shi-jie&style=flat-square&color=blue)
 
 <!--
 **xu-shi-jie/xu-shi-jie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
