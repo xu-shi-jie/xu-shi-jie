@@ -1,6 +1,11 @@
-# Hello world! 👋
+<h2 align="center">👋 Hello! I'm Shijie.</h2>
+<p align="center">
+  <a href="https://xu-shi-jie.github.io"> Homepage</a> •
+  <a href="https://onoda-lab.jp"> Lab </a>
+</p>
 
 ![Snake animation](https://github.com/xu-shi-jie/xu-shi-jie/blob/output/github-snake.svg)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -30,6 +35,9 @@
 <!--   <img src="https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white" /> -->
 </p>
 
+-------
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -42,5 +50,5 @@ GDScript           5 mins          ▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
- ***
+-------
 ![](https://komarev.com/ghpvc/?username=xu-shi-jie&style=flat-square&color=blue) 
