@@ -30,7 +30,17 @@
 <!--   <img src="https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white" /> -->
 </p>
 
-<!--START_SECTION:waka-->  <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+```txt
+Python             3 hrs 10 mins   ███████████████░░░░░░░░░░   59.86 %
+Jupyter Notebook   1 hr 24 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
+YAML               16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Bash               16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+GDScript           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+```
+
+<!--END_SECTION:waka-->
 
  ***
 ![](https://komarev.com/ghpvc/?username=xu-shi-jie&style=flat-square&color=blue) 
