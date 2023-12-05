@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             27 hrs 7 mins   ████████████░░░░░░░░░░░░░   48.61 %
-Other              10 hrs 7 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
-Julia              6 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-Jupyter Notebook   2 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Text               2 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Python             29 hrs 1 min    █████████████░░░░░░░░░░░░   52.25 %
+Other              10 hrs 37 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
+Jupyter Notebook   4 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+CSV                2 hrs 49 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Text               2 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
 
 <!--END_SECTION:waka-->
