@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             11 hrs 47 mins  █████████▓░░░░░░░░░░░░░░░   38.01 %
-Jupyter Notebook   7 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
-Other              5 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
-Markdown           3 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Bash               42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Jupyter Notebook   10 hrs 24 mins  ████████▓░░░░░░░░░░░░░░░░   34.53 %
+Python             9 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   31.08 %
+Other              5 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   19.34 %
+Markdown           2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+YAML               32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
