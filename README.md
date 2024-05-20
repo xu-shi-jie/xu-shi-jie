@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter Notebook   17 mins         █████████████████████▒░░░   85.61 %
-Python             2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Python   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
