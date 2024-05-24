@@ -13,7 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML       16 mins         ██████████░░░░░░░░░░░░░░░   39.64 %
+Python     12 mins         ████████░░░░░░░░░░░░░░░░░   31.75 %
+TOML       9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+CSS        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
