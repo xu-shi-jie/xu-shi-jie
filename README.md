@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             23 hrs 19 mins  ███████████████░░░░░░░░░░   59.36 %
-Other              11 hrs 41 mins  ███████▒░░░░░░░░░░░░░░░░░   29.76 %
-YAML               2 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-OpenEdge ABL       33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Jupyter Notebook   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Python             22 hrs 27 mins  ████████████▓░░░░░░░░░░░░   50.68 %
+Other              17 hrs 47 mins  ██████████░░░░░░░░░░░░░░░   40.16 %
+YAML               2 hrs 37 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+OpenEdge ABL       33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Jupyter Notebook   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
