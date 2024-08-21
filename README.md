@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      21 hrs 57 mins  ██████████████████████░░░   88.43 %
-Python                     1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-Text                       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Jupyter Notebook           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Nginx configuration file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Other                      23 hrs 11 mins  ████████████████████░░░░░   79.73 %
+Jupyter Notebook           2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+Python                     2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+TeX                        53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Text                       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
