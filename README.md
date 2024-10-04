@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      33 hrs 3 mins   ████████████████▒░░░░░░░░   65.82 %
-Python                     7 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
-TeX                        3 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Jupyter Notebook           2 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-HTML                       1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Other                      31 hrs 6 mins   █████████████████▓░░░░░░░   70.34 %
+Python                     4 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+TeX                        3 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Jupyter Notebook           2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+HTML                       1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
