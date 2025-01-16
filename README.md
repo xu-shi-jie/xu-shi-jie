@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other              46 hrs 4 mins   ██████████████████████░░░   88.55 %
-Python             3 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-Io                 2 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Jupyter Notebook   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Text               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other              53 hrs 7 mins   ████████████████████████░   96.57 %
+Python             1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Makefile           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Jupyter Notebook   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Pip Requirements   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
