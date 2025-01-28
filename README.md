@@ -13,9 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other              39 hrs 58 mins  ████████████████████████▒   97.70 %
-Jupyter Notebook   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other              37 hrs          ███████████████████████▓░   94.46 %
+Jupyter Notebook   1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Markdown           43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Python             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+JavaScript         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
