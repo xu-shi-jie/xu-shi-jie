@@ -13,10 +13,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other              3 hrs 28 mins   █████████████████████▒░░░   85.40 %
-Jupyter Notebook   28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-Text               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-TSV                3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Other              1 hr 54 mins    ████████████████████░░░░░   80.19 %
+Jupyter Notebook   28 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
 ```
 
 <!--END_SECTION:waka-->
