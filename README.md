@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 13 mins   ████████████████████████▒   97.66 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
