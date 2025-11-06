@@ -13,7 +13,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          █████████████████████████   100.00 %
+Nginx configuration file   0 secs          █████████████████▒░░░░░░░   69.86 %
+Python                     0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.14 %
 ```
 
 <!--END_SECTION:waka-->
