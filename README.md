@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx configuration file   0 secs          ████████████████████▓░░░░   82.27 %
-Python                     0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
