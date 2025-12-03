@@ -4,19 +4,4 @@
   <a href="https://onodalab.ees.hokudai.ac.jp"> Lab </a>
 </p>
 
-![Snake animation](https://github.com/xu-shi-jie/xu-shi-jie/blob/output/github-snake.svg)
-
-
--------
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```txt
-Other   9 hrs 5 mins    █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
--------
-![](https://komarev.com/ghpvc/?username=xu-shi-jie&style=flat-square&color=blue) 
+![Snake animation](https://github.com/xu-shi-jie/xu-shi-jie/blob/dist/github-snake.svg)
