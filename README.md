@@ -13,9 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      7 hrs 31 mins   █████████████████████████   99.70 %
-Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other   9 hrs 5 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
