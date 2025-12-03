@@ -4,4 +4,7 @@
   <a href="https://onodalab.ees.hokudai.ac.jp"> Lab </a>
 </p>
 
-![Snake animation](https://github.com/xu-shi-jie/xu-shi-jie/blob/dist/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/xu-shi-jie/xu-shi-jie/output/github-snake.svg)
+
+-------
+![](https://komarev.com/ghpvc/?username=xu-shi-jie&style=flat-square&color=blue) 
